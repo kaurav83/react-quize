@@ -3,7 +3,6 @@ import classes from './Layout.css';
 
 class Layout extends Component {
     render() {
-        console.log(classes, 'classes')
         return (
             <div className={classes.Layout}>
                 <main>
