@@ -18,3 +18,11 @@
     -ms-transition: background .3s ease-in-out;
     -o-transition: background .3s ease-in-out;
 }
+
+.AnswerItem.success {
+    background: rgba(161, 240, 69, .7);
+}
+
+.AnswerItem.error {
+    background: tomato;
+}
